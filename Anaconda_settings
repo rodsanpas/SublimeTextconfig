@@ -1,0 +1,16 @@
+{
+    "auto_formatting": true,
+    "autoformat_ignore":
+    [
+        "E309",
+        "E501"
+    ],
+    "pep8_ignore":
+    [
+        "E309",
+        "E501"
+    ],
+    "anaconda_gutter_marks": true,
+    "anaconda_gutter_theme": "basic",
+    "anaconda_linter_mark_style": "none",
+}
